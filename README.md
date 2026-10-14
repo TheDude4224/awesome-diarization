@@ -382,6 +382,7 @@ Team in the Inaugural DIHARD Challenge](https://www.isca-speech.org/archive/pdfs
 | Microsoft | [Azure Conversation Transcription API](https://learn.microsoft.com/en-us/azure/cognitive-services/speech-service/conversation-transcription) |
 | BRAINIALL | [Diarized Transcription API](https://fasuizu-br.github.io/brainiall-transcription-skill/) - metered API for authorized Brazilian Portuguese and Spanish recordings with word timestamps and speaker labels |
 | diarize | [diarize.io](https://diarize.io) - hosted API and web app for speaker-labeled transcripts of YouTube and other video links |
+| Infinihash | [MyAi Transcribe](https://myaitoken.io/transcribe) - paid batch API (Whisper large-v3-turbo) that returns speaker-labeled SRT, VTT, TXT and JSON for long recordings and lists of audio URLs |
 
 ## Star History
 
